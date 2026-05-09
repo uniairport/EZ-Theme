@@ -280,9 +280,9 @@ export const config  = {
         // 客户端下载链接  //可以改成文档链接直接在新标签页打开
         clientLinks: {
             ios: 'https://apps.apple.com/app/xxx',
-            android: 'http://38.147.163.207:5212/f/d/8Lcq/BestTelecom-1.0.0-android-x86_64.apk',
-            macos: 'http://38.147.163.207:5212/f/d/y9SM/BestTelecom-1.0.0-macos-universal.dmg',
-            windows: 'http://38.147.163.207:5212/f/d/OqH1/BestTelecom-1.0.0-windows.exe',
+            android: 'http://38.207.133.250:5212/f/pNUe/BestTelecom-1.0.0-android-x86_64.apk',
+            macos: 'http://38.207.133.250:5212/f/Alcd/BestTelecom-1.0.0-macos-universal.dmg',
+            windows: 'http://38.207.133.250:5212/f/r0tq/BestTelecom-1.0.0-windows.exe',
             linux: 'https://github.com/xxx/releases/latest',
             openwrt: 'https://github.com/xxx/releases/latest'
         },
